@@ -20,5 +20,4 @@ Housing Prices Dataset — 545 records with 13 features
 3. Open: `jupyter notebook housing_price_prediction.ipynb`
 
 ## 👩‍💻 Author
-Emaan Tahir Abbasi | BS Data Science | Women University AJK# housing-price-prediction
-Linear Regression model predicting housing prices — R²=0.65, feature engineering on 545 properties
+Emaan Tahir Abbasi | BS Data Science | Women University AJK
